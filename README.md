@@ -1,2 +1,2 @@
-# zoom
+# zoomus
 scripts for zoom.us
